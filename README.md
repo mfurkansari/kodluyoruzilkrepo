@@ -34,3 +34,5 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ![Proje resmi](https://im.ge/i/ORgAmS)
+
+[Patika Adresim](https://app.patika.dev/mfurkansari)
